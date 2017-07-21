@@ -1,0 +1,5 @@
+((nil . ((compile-command . "make -C ./ -k")))
+ (c-mode . ((indent-tabs-mode . nil)
+            (tab-width . 2)
+            (c-basic-offset . 4)
+            (c-file-style . "google"))))
